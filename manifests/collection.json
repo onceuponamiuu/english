@@ -9,5 +9,9 @@
     "@type" : null,
     "@id" : "https://onceuponamiuu.github.io/english/manifests/info.json",
     "label" : null
+  }, {
+    "@type" : null,
+    "@id" : "https://onceuponamiuu.github.io/english/manifests/anhdautien",
+    "label" : null
   } ]
 }
