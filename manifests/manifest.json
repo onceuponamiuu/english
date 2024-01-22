@@ -1,0 +1,237 @@
+{
+  "id" : "https://onceuponamiuu.github.io/english/manifests/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in onceuponamiuu/New-year-Mekong-Delta project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "items" : [ {
+    "width" : 1600,
+    "id" : "https://onceuponamiuu.github.io/New-year-Mekong-Delta/images/xin-chu-dau-xuan/canvas/",
+    "label" : {
+      "none" : [ "xin-chu-dau-xuan" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://onceuponamiuu.github.io/New-year-Mekong-Delta/images/xin-chu-dau-xuan/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://onceuponamiuu.github.io/New-year-Mekong-Delta/images/xin-chu-dau-xuan/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 50,
+              "height" : 34
+            }, {
+              "width" : 100,
+              "height" : 67
+            }, {
+              "width" : 200,
+              "height" : 134
+            }, {
+              "width" : 400,
+              "height" : 267
+            }, {
+              "width" : 800,
+              "height" : 534
+            }, {
+              "width" : 1600,
+              "height" : 1067
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1600,
+            "@id" : "https://onceuponamiuu.github.io/New-year-Mekong-Delta/images/xin-chu-dau-xuan",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1067
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1600,
+          "id" : "https://onceuponamiuu.github.io/New-year-Mekong-Delta/images/xin-chu-dau-xuan/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1067
+        },
+        "target" : "https://onceuponamiuu.github.io/New-year-Mekong-Delta/images/xin-chu-dau-xuan/canvas/"
+      } ]
+    } ],
+    "height" : 1067
+  }, {
+    "width" : 660,
+    "id" : "https://onceuponamiuu.github.io/New-year-Mekong-Delta/images/hoa-tet-mien-tay-1/canvas/",
+    "label" : {
+      "none" : [ "hoa-tet-mien-tay-1" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://onceuponamiuu.github.io/New-year-Mekong-Delta/images/hoa-tet-mien-tay-1/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://onceuponamiuu.github.io/New-year-Mekong-Delta/images/hoa-tet-mien-tay-1/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 21,
+              "height" : 14
+            }, {
+              "width" : 42,
+              "height" : 28
+            }, {
+              "width" : 83,
+              "height" : 56
+            }, {
+              "width" : 165,
+              "height" : 112
+            }, {
+              "width" : 330,
+              "height" : 224
+            }, {
+              "width" : 660,
+              "height" : 447
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 660,
+            "@id" : "https://onceuponamiuu.github.io/New-year-Mekong-Delta/images/hoa-tet-mien-tay-1",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 447
+          } ],
+          "format" : "image/jpeg",
+          "width" : 660,
+          "id" : "https://onceuponamiuu.github.io/New-year-Mekong-Delta/images/hoa-tet-mien-tay-1/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 447
+        },
+        "target" : "https://onceuponamiuu.github.io/New-year-Mekong-Delta/images/hoa-tet-mien-tay-1/canvas/"
+      } ]
+    } ],
+    "height" : 447
+  }, {
+    "width" : 1080,
+    "id" : "https://onceuponamiuu.github.io/New-year-Mekong-Delta/images/cho-tet-tren-song/canvas/",
+    "label" : {
+      "none" : [ "cho-tet-tren-song" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://onceuponamiuu.github.io/New-year-Mekong-Delta/images/cho-tet-tren-song/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://onceuponamiuu.github.io/New-year-Mekong-Delta/images/cho-tet-tren-song/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 34,
+              "height" : 19
+            }, {
+              "width" : 68,
+              "height" : 38
+            }, {
+              "width" : 135,
+              "height" : 76
+            }, {
+              "width" : 270,
+              "height" : 152
+            }, {
+              "width" : 540,
+              "height" : 304
+            }, {
+              "width" : 1080,
+              "height" : 608
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1080,
+            "@id" : "https://onceuponamiuu.github.io/New-year-Mekong-Delta/images/cho-tet-tren-song",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 608
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1080,
+          "id" : "https://onceuponamiuu.github.io/New-year-Mekong-Delta/images/cho-tet-tren-song/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 608
+        },
+        "target" : "https://onceuponamiuu.github.io/New-year-Mekong-Delta/images/cho-tet-tren-song/canvas/"
+      } ]
+    } ],
+    "height" : 608
+  }, {
+    "width" : 1366,
+    "id" : "https://onceuponamiuu.github.io/New-year-Mekong-Delta/images/am-thuc-rieng-ngay-tet/canvas/",
+    "label" : {
+      "none" : [ "am-thuc-rieng-ngay-tet" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://onceuponamiuu.github.io/New-year-Mekong-Delta/images/am-thuc-rieng-ngay-tet/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://onceuponamiuu.github.io/New-year-Mekong-Delta/images/am-thuc-rieng-ngay-tet/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 43,
+              "height" : 29
+            }, {
+              "width" : 86,
+              "height" : 57
+            }, {
+              "width" : 171,
+              "height" : 114
+            }, {
+              "width" : 342,
+              "height" : 228
+            }, {
+              "width" : 683,
+              "height" : 455
+            }, {
+              "width" : 1366,
+              "height" : 910
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1366,
+            "@id" : "https://onceuponamiuu.github.io/New-year-Mekong-Delta/images/am-thuc-rieng-ngay-tet",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 910
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1366,
+          "id" : "https://onceuponamiuu.github.io/New-year-Mekong-Delta/images/am-thuc-rieng-ngay-tet/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 910
+        },
+        "target" : "https://onceuponamiuu.github.io/New-year-Mekong-Delta/images/am-thuc-rieng-ngay-tet/canvas/"
+      } ]
+    } ],
+    "height" : 910
+  } ]
+}
