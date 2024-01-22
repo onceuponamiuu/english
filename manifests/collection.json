@@ -13,5 +13,11 @@
     "@type" : null,
     "@id" : "https://onceuponamiuu.github.io/english/manifests/anhdautien",
     "label" : null
+  }, {
+    "id" : "https://onceuponamiuu.github.io/english/manifests/manifest.json",
+    "label" : {
+      "en" : [ "All images loaded in onceuponamiuu/New-year-Mekong-Delta project" ]
+    },
+    "type" : "Manifest"
   } ]
 }
